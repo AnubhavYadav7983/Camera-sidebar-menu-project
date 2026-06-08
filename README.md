@@ -1,2 +1,2 @@
-# -Camera-sidebar-menu-project
+# Camera-sidebar-menu-project
 using html CSS
